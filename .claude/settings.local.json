@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(prd-doc-writer)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
